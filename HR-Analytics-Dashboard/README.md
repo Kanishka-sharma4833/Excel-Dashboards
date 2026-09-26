@@ -27,4 +27,4 @@ An interactive Excel dashboard designed to analyze workforce data and provide me
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR-Analytics-Dashboard.png)
+![HR Analytics Dashboard](Screenshot%202026-09-26%20211514.png)
