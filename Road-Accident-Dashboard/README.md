@@ -48,3 +48,7 @@ An interactive **Excel Dashboard** designed to analyze road accident data and pr
 - Analyzed urban and rural accident locations
 - Studied road surface conditions and their relationship with casualties
 - Created an interactive dashboard for road accident analysis
+
+## Road Accident Dashboard
+
+[View / Download Dashboard](https://drive.google.com/file/d/18YjG1JRVvMeV_RdcOpUm3HdXfpx3vLy8/view?usp=sharing)
